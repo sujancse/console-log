@@ -22,6 +22,5 @@ Console::log($user);
 ```
 
 ![Image](https://i.ibb.co/z8vCfRp/Screenshot-2020-01-20-at-2-10-37-AM.png)
-Expanded image
 
 ![Image](https://i.ibb.co/pP33Chv/Screenshot-2020-01-20-at-2-10-52-AM.png)
