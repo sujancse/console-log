@@ -17,6 +17,7 @@ use Sujan\Logger\Console;
 ```$xslt
 $users = User::all()->toArray();
 Console::log($users);
+
 $user = User::first();
 Console::log($user);
 ```
