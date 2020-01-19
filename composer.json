@@ -1,0 +1,20 @@
+{
+    "name": "sujan/console-log",
+    "description": "PHP library to log data on browser console",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sujan Mahmud",
+            "email": "sujancseruet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sujan\\Logger\\": "src/"
+        }
+    }
+}
